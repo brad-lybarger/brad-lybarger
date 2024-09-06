@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a Full-Stack Software Engineer who enjoys working with others to solve complex problems with clean, well-tested software. I am proficient in TypeScript and React, but am always up for a new challenge.
+
+I'm looking for the next opportunity to work with a strong team to build products that provide value to the customer.
+
 <!--
 **brad-lybarger/brad-lybarger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
