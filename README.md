@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-I'm a Full-Stack Software Engineer who enjoys working with others to solve complex problems with clean, well-tested software. I am proficient in TypeScript and React, but am always up for a new challenge.
+I'm a Senior Software Engineer with 10+ years of experience building high-quality, well-tested applications for business and consumer customers. I enjoy:
+ - learning new things,
+ - taking on new challenges,
+ - and solving complex problems with a team.
 
-I'm looking for the next opportunity to work with a strong team where I can both apply and grow my skills while building valuable solutions for customers.
+I have plenty of experience as a Full Stack Engineer that leans more towards the front end of the stack with a proficiency in React and TypeScript. I'm looking for the next opportunity to work with a strong team where I can both apply and grow my skills while building valuable solutions for customers.
 
 <!--
 **brad-lybarger/brad-lybarger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
