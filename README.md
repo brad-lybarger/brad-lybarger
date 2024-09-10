@@ -5,7 +5,7 @@ I'm a Senior Software Engineer with 10+ years of experience building high-qualit
  - taking on new challenges,
  - and solving complex problems with a team.
 
-I have plenty of experience as a Full Stack Engineer that leans more towards the front end of the stack with a proficiency in React and TypeScript. I'm looking for the next opportunity to work with a strong team where I can both apply and grow my skills while building valuable solutions for customers.
+I have plenty of experience as a Full Stack Engineer and lean more towards the front end of the stack with a proficiency in React and TypeScript. I'm looking for the next opportunity to work with a strong team where I can both apply and grow my skills while building valuable solutions for customers.
 
 <!--
 **brad-lybarger/brad-lybarger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
